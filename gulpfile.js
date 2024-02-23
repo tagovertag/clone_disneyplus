@@ -19,9 +19,6 @@ exports.watch = function() {
 
 
 
-
-
-
 const imagemin = require('gulp-imagemin');
 
 function styles() {
